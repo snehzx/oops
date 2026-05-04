@@ -1,3 +1,5 @@
+package static_keyword;
+
 public class static2 {
     public static void main(String[] args) {
         static2.fun();
