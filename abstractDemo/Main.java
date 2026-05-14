@@ -7,5 +7,6 @@ public class Main {
         d.career();
         d.normal();
        System.out.println(d.VAL);
+       System.out.println(args[0] + " "  + args[1]);
     }
 }
